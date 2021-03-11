@@ -15,8 +15,8 @@ This is a model in which OpenCv is used to built a Virtual Paint.This enables us
 - we can also insert more colours if we want.
 - Let's take a look.
 
-![result](https://user-images.githubusercontent.com/77094652/110763700-2c8c2300-8278-11eb-90fd-a4d1da201ef0.mp4)
+![result](https://user-images.githubusercontent.com/77094652/110764257-d4a1ec00-8278-11eb-8826-3beedf2acbe7.gif)
 
-<br>
+
 
   
